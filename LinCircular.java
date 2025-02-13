@@ -46,7 +46,7 @@ class cirList {
 
     public void display() {
         if (head == null) {
-            System.out.println("Circular Linked List is empty.");
+            System.out.println("List is empty");
             return;
         }
 
