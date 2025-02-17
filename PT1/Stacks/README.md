@@ -8,7 +8,7 @@ How to use it:
 import java.util.Scanner;                                                           // This is a scanner to have a user input
 import java.util.Stack;                                                             // Data stucture
 
-public class STKS{ // Main class
+public class STKS{                                                                  // Main class
     public static void main(String[] args){                                         // Main method
         
         Stack<String> stk = new Stack<>();                                          // Called the data stucture
