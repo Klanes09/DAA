@@ -98,8 +98,13 @@ public class STKS{ // Main class
 
 How to use the Stack
 First is to pick if you are pushing a word, popping a word, show the stack, show the top word, and exiting 
+
 if you are pushing a word pick 1 and enter the word
+
 if you are popping a word pick 2 and click enter
+
 if you are peeking the top word click 3 and it will dispay the top word
+
 if you want to see the stacks click 4 and it will display the stacks
+
 then lastly exit. 
