@@ -90,7 +90,8 @@ this will stop the programm
 
 A doubly linked list is a bi-directional linked list. So, you can traverse it in both directions. Unlike singly linked lists, its nodes contain one extra pointer called the previous pointer. This pointer points to the previous node
 
-public void insertAtBeginning(int data) {                              
+public void insertAtBeginning(int data) { 
+
         Node newNode = new Node(data);                                // creates a new node object with the data
         newNode.next = head;                                          // Sets the pointer of the new created node which the new node to point to the current head
         if (head != null) {                                           // This if statement block checks if the list is not empty
