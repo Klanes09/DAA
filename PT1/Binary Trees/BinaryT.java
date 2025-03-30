@@ -67,4 +67,9 @@ public class BinaryT {
 
         scan.close();
     }
+
+    public void runBinaryT(int size) {
+        System.out.println("[DEBUG] Running Binary Tree operations with size: " + size);
+        // Add logic for Binary Tree operations here
+    }
 }

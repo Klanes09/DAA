@@ -93,5 +93,11 @@ public class Que{
             System.out.println("\nThe queue is empty");
         }
     }
-}  
-    
+
+
+    public void runQueue(int size) {
+        System.out.println("[DEBUG] Running Queue operations with size: " + size);
+       
+    }
+}
+

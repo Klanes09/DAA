@@ -110,4 +110,8 @@ public class LinDoubly {
             }
         }
     }
+    public void runDoubly(int size) {
+        System.out.println("[DEBUG] Running Doubly Linked List operations with size: " + size);
+        
+    }
 }

@@ -38,4 +38,9 @@ public class Graphs {
         graph.display();
         graph.scan.close(); 
     }
+
+    public void runGraphs(int size) {
+        System.out.println("[DEBUG] Running Graph operations with size: " + size);
+        
+    }
 }

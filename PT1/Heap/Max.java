@@ -53,4 +53,9 @@ public class Max{
         Max_heap mx = new Max_heap();
         mx.Choice();
     }
+
+    public void runMax(int size) {
+        System.out.println("[DEBUG] Running Max Heap operations with size: " + size);
+        
+    }
 }

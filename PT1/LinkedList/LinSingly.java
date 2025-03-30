@@ -82,4 +82,8 @@ public class LinSingly{
             }
         }
     }
+    public void runSingly(int size) {
+        System.out.println("[DEBUG] Running Singly Linked List operations with size: " + size);
+        
+    }
 }

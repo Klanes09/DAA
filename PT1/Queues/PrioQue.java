@@ -63,4 +63,9 @@ public class PrioQue{
         Priorityq pq = new Priorityq();
         pq.choices();
     }
+
+    public void runPriorityQue(int size) {
+        System.out.println("[DEBUG] Running Priority Queue with size: " + size);
+        // Add logic for Priority Queue operations here
+    }
 }

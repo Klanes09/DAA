@@ -52,4 +52,9 @@ public class Min{
         Min_heap mp = new Min_heap();
         mp.Choice();
     }
+
+    public void runMin(int size) {
+        System.out.println("[DEBUG] Running Min Heap operations with size: " + size);
+        
+    }
 }

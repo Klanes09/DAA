@@ -97,4 +97,9 @@ public class LinCircular{
             }
         }
     }
+
+    public void runCircular(int size) {
+        System.out.println("[DEBUG] Running Circular Linked List operations with size: " + size);
+        
+    }
 }
