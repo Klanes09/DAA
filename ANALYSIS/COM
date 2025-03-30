@@ -1,230 +1,51 @@
-Kland Paul P Flores 
-BSCS 401 
-========= PERFORMANCE RESULTS ========= 
-Input Size: 100 --------------------------------------------------- 
-Class: BinaryTrees 
-Execution Time: 0.8014 ms 
-Memory Used: 1720.0000 KB 
-Class File size: 2 KB --------------------------------------------------- 
-Class: Graphs 
-Execution Time: 5.5347 ms 
-Memory Used: 2294.0000 KB 
-Class File size: 2 KB --------------------------------------------------- 
-Class: HeapMax 
-Execution Time: 0.6376 ms 
-Memory Used: 2294.0000 KB 
-Class File size: 2 KB --------------------------------------------------- 
-Class: HeapMin 
-Execution Time: 0.6005 ms 
-Memory Used: 2294.0000 KB 
-Class File size: 2 KB --------------------------------------------------- 
-Class: Circular 
-Execution Time: 1.0996 ms 
-Memory Used: 2294.0000 KB 
-Class File size: 3 KB 
---------------------------------------------------- 
-Class: Doubly 
-Execution Time: 0.7764 ms 
-Memory Used: 2294.0000 KB 
-Class File size: 4 KB --------------------------------------------------- 
-Class: Singly 
-Execution Time: 16.1440 ms 
-Memory Used: 2294.0000 KB 
-Class File size: 3 KB --------------------------------------------------- 
-Class: PriorityQue 
-Execution Time: 0.8415 ms 
-Memory Used: 2294.0000 KB 
-Class File size: 3 KB --------------------------------------------------- 
-Class: SimpleQueue 
-Execution Time: 0.6586 ms 
-Memory Used: 2294.0000 KB 
-Class File size: 3 KB --------------------------------------------------- 
-Class: Stacks 
-Execution Time: 0.5917 ms 
-Memory Used: 2294.0000 KB 
-Class File size: 3 KB 
-======================================== 
-[DEBUG] COMPLETED Tests with Input Size: 100 
-========= PERFORMANCE RESULTS ========= 
-Input Size: 1000 --------------------------------------------------- 
-Class: BinaryTrees 
-Execution Time: 0.4313 ms 
-Memory Used: 2294.0000 KB 
-Class File size: 2 KB --------------------------------------------------- 
-Class: Graphs 
-Execution Time: 0.2590 ms 
-Memory Used: 2294.0000 KB 
-Class File size: 2 KB --------------------------------------------------- 
-Class: HeapMax 
-Execution Time: 0.3420 ms 
-Memory Used: 2294.0000 KB 
-Class File size: 2 KB --------------------------------------------------- 
-Class: HeapMin 
-Execution Time: 0.3666 ms 
-Memory Used: 2294.0000 KB 
-Class File size: 2 KB --------------------------------------------------- 
-Class: Circular 
-Execution Time: 0.4869 ms 
-Memory Used: 2294.0000 KB 
-Class File size: 3 KB --------------------------------------------------- 
-Class: Doubly 
-Execution Time: 0.4034 ms 
-Memory Used: 2294.0000 KB 
-Class File size: 4 KB --------------------------------------------------- 
-Class: Singly 
-Execution Time: 0.2805 ms 
-Memory Used: 2294.0000 KB 
-Class File size: 3 KB --------------------------------------------------- 
-Class: PriorityQue 
-Execution Time: 0.3731 ms 
-Memory Used: 2294.0000 KB 
-Class File size: 3 KB --------------------------------------------------- 
-Class: SimpleQueue 
-Execution Time: 0.2929 ms 
-Memory Used: 2294.0000 KB 
-Class File size: 3 KB --------------------------------------------------- 
-Class: Stacks 
-Execution Time: 0.3385 ms 
-Memory Used: 2294.0000 KB 
-Class File size: 3 KB 
-======================================== 
-[DEBUG] COMPLETED Tests with Input Size: 1000 
-========= PERFORMANCE RESULTS ========= 
-Input Size: 10000 --------------------------------------------------- 
-Class: BinaryTrees 
-Execution Time: 0.2120 ms 
-Memory Used: 2294.0000 KB 
-Class File size: 2 KB --------------------------------------------------- 
-Class: Graphs 
-Execution Time: 0.2304 ms 
-Memory Used: 2294.0000 KB 
-Class File size: 2 KB --------------------------------------------------- 
-Class: HeapMax 
-Execution Time: 0.2145 ms 
-Memory Used: 2294.0000 KB 
-Class File size: 2 KB --------------------------------------------------- 
-Class: HeapMin 
-Execution Time: 0.2413 ms 
-Memory Used: 2294.0000 KB 
-Class File size: 2 KB --------------------------------------------------- 
-Class: Circular 
-Execution Time: 0.3264 ms 
-Memory Used: 2294.0000 KB 
-Class File size: 3 KB --------------------------------------------------- 
-Class: Doubly 
-Execution Time: 0.2096 ms 
-Memory Used: 2294.0000 KB 
-Class File size: 4 KB --------------------------------------------------- 
-Class: Singly 
-Execution Time: 0.2669 ms 
-Memory Used: 2294.0000 KB 
-Class File size: 3 KB --------------------------------------------------- 
-Class: PriorityQue 
-Execution Time: 0.5350 ms 
-Memory Used: 2294.0000 KB 
-Class File size: 3 KB --------------------------------------------------- 
-Class: SimpleQueue 
-Execution Time: 0.6071 ms 
-Memory Used: 2294.0000 KB 
-Class File size: 3 KB --------------------------------------------------- 
-Class: Stacks 
-Execution Time: 0.2493 ms 
-Memory Used: 2294.0000 KB 
-Class File size: 3 KB 
-======================================== 
-[DEBUG] COMPLETED Tests with Input Size: 10000 
-========= PERFORMANCE RESULTS ========= 
-Input Size: 100000 --------------------------------------------------- 
-Class: BinaryTrees 
-Execution Time: 0.3537 ms 
-Memory Used: 2294.0000 KB 
-Class File size: 2 KB --------------------------------------------------- 
-Class: Graphs 
-Execution Time: 0.3519 ms 
-Memory Used: 2294.0000 KB 
-Class File size: 2 KB --------------------------------------------------- 
-Class: HeapMax 
-Execution Time: 0.2458 ms 
-Memory Used: 2294.0000 KB 
-Class File size: 2 KB --------------------------------------------------- 
-Class: HeapMin 
-Execution Time: 0.3290 ms 
-Memory Used: 2294.0000 KB 
-Class File size: 2 KB --------------------------------------------------- 
-Class: Circular 
-Execution Time: 0.3607 ms 
-Memory Used: 2294.0000 KB 
-Class File size: 3 KB --------------------------------------------------- 
-Class: Doubly 
-Execution Time: 0.4874 ms 
-Memory Used: 2294.0000 KB 
-Class File size: 4 KB --------------------------------------------------- 
-Class: Singly 
-Execution Time: 0.3261 ms 
-Memory Used: 2294.0000 KB 
-Class File size: 3 KB --------------------------------------------------- 
-Class: PriorityQue 
-Execution Time: 0.4562 ms 
-Memory Used: 2294.0000 KB 
-Class File size: 3 KB --------------------------------------------------- 
-Class: SimpleQueue 
-Execution Time: 0.3856 ms 
-Memory Used: 2294.0000 KB 
-Class File size: 3 KB --------------------------------------------------- 
-Class: Stacks 
-Execution Time: 0.3103 ms 
-Memory Used: 2294.0000 KB 
-Class File size: 3 KB 
-======================================== 
-[DEBUG] COMPLETED Tests with Input Size: 100000 
 Input Size: 100 
-Class Execution Time (ms) Memory Used (KB) File Size (KB) Time Complexity 
-BinaryTrees 0.8014 1720.0000 2 O(log n) 
-Graphs 5.5347 2294.0000 2 O(V + E) 
-HeapMax 0.6376 2294.0000 2 O(log n) 
-HeapMin 0.6005 2294.0000 2 O(log n) 
-Circular 1.0996 2294.0000 3 O(n) 
-Doubly 0.7764 2294.0000 4 O(n) 
-Singly 16.1440 2294.0000 3 O(n) 
-PriorityQue 0.8415 2294.0000 3 O(log n) 
-SimpleQueue 0.6586 2294.0000 3 O(1) (enqueue/dequeue) 
-Stacks 0.5917 2294.0000 3 O(1) (push/pop) 
+Class           Execution Time (ms)   Memory Used (KB)   File Size (KB)     Time Complexity 
+BinaryTrees     0.8014                1720.0000               2             O(log n) 
+Graphs          5.5347                2294.0000               2             O(V + E) 
+HeapMax         0.6376                2294.0000               2             O(log n) 
+HeapMin         0.6005                2294.0000               2             O(log n) 
+Circular        1.0996                2294.0000               3             O(n) 
+Doubly          0.7764                2294.0000               4             O(n) 
+Singly          16.1440               2294.0000               3             O(n) 
+PriorityQue     0.8415                2294.0000               3             O(log n) 
+SimpleQueue     0.6586                2294.0000               3             O(1) (enqueue/dequeue) 
+Stacks          0.5917                2294.0000               3             O(1) (push/pop) 
  
 Input Size: 1000 
-Class Execution Time (ms) Memory Used (KB) File Size (KB) Time Complexity 
-BinaryTrees 0.4313 2294.0000 2 O(log n) 
-Graphs 0.2590 2294.0000 2 O(V + E) 
-HeapMax 0.3420 2294.0000 2 O(log n) 
-HeapMin 0.3666 2294.0000 2 O(log n) 
-Circular 0.4869 2294.0000 3 O(n) 
-Doubly 0.4034 2294.0000 4 O(n) 
-Singly 0.2805 2294.0000 3 O(n) 
-PriorityQue 0.3731 2294.0000 3 O(log n) 
-SimpleQueue 0.2929 2294.0000 3 O(1) (enqueue/dequeue) 
-Stacks 0.3385 2294.0000 3 O(1) (push/pop) 
+Class           Execution Time (ms)   Memory Used (KB)    File Size (KB)     Time Complexity 
+BinaryTrees     0.4313                2294.0000               2              O(log n) 
+Graphs          0.2590                2294.0000               2              O(V + E) 
+HeapMax         0.3420                2294.0000               2              O(log n) 
+HeapMin         0.3666                2294.0000               2              O(log n) 
+Circular        0.4869                2294.0000               3              O(n) 
+Doubly          0.4034                2294.0000               4              O(n) 
+Singly          0.2805                2294.0000               3              O(n) 
+PriorityQue     0.3731                2294.0000               3              O(log n) 
+SimpleQueue     0.2929                2294.0000               3              O(1) (enqueue/dequeu) 
+Stacks          0.3385                2294.0000               3              O(1) (push/pop) 
  
 Input Size: 10000 
-Class Execution Time (ms) Memory Used (KB) File Size (KB) Time Complexity 
-BinaryTrees 0.2120 2294.0000 2 O(log n) 
-Graphs 0.2304 2294.0000 2 O(V + E) 
-HeapMax 0.2145 2294.0000 2 O(log n) 
-HeapMin 0.2413 2294.0000 2 O(log n) 
-Circular 0.3264 2294.0000 3 O(n) 
-Doubly 0.2096 2294.0000 4 O(n) 
-Singly 0.2669 2294.0000 3 O(n) 
-PriorityQue 0.5350 2294.0000 3 O(log n) 
-SimpleQueue 0.6071 2294.0000 3 O(1) (enqueue/dequeue) 
-Stacks 0.2493 2294.0000 3 O(1) (push/pop) 
+Class          Execution Time (ms)    Memory Used (KB)    File Size (KB)     Time Complexity 
+BinaryTrees     0.2120                2294.0000               2              O(log n) 
+Graphs          0.2304                2294.0000               2              O(V + E) 
+HeapMax         0.2145                2294.0000               2              O(log n) 
+HeapMin         0.2413                2294.0000               2              O(log n) 
+Circular        0.3264                2294.0000               3              O(n) 
+Doubly          0.2096                2294.0000               4              O(n) 
+Singly          0.2669                2294.0000               3              O(n) 
+PriorityQue     0.5350                2294.0000               3              O(log n) 
+SimpleQueue     0.6071                2294.0000               3              O(1) (enqueue/dequeue) 
+Stacks          0.2493                2294.0000               3              O(1) (push/pop) 
  
 Input Size: 100000 
-Class Execution Time (ms) Memory Used (KB) File Size (KB) Time Complexity 
-BinaryTrees 0.3537 2294.0000 2 O(log n) 
-Graphs 0.3519 2294.0000 2 O(V + E) 
-HeapMax 0.2458 2294.0000 2 O(log n) 
-HeapMin 0.3290 2294.0000 2 O(log n) 
-Circular 0.3607 2294.0000 3 O(n) 
-Doubly 0.4874 2294.0000 4 O(n) 
-Singly 0.3261 2294.0000 3 O(n) 
-PriorityQue 0.4562 2294.0000 3 O(log n) 
-SimpleQueue 0.3856 2294.0000 3 O(1) (enqueue/dequeue) 
-Stacks 0.3103 2294.0000 3 O(1) (push/pop)
+Class           Execution Time (ms)   Memory Used (KB)    File Size (KB)     Time Complexity 
+BinaryTrees     0.3537                2294.0000               2              O(log n) 
+Graphs          0.3519                2294.0000               2              O(V + E) 
+HeapMax         0.2458                2294.0000               2              O(log n) 
+HeapMin         0.3290                2294.0000               2              O(log n) 
+Circular        0.3607                2294.0000               3              O(n) 
+Doubly          0.4874                2294.0000               4              O(n) 
+Singly          0.3261                2294.0000               3              O(n) 
+PriorityQue     0.4562                2294.0000               3              O(log n) 
+SimpleQueue     0.3856                2294.0000               3              O(1) (enqueue/dequeue) 
+Stacks          0.3103                2294.0000               3              O(1) (push/pop)
